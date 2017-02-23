@@ -1,0 +1,8 @@
+# why are you like this
+root = true
+
+[*]
+end_of_line = lf
+indent_style = tab
+insert_final_newline = true
+trim_trailing_whitespace = true
