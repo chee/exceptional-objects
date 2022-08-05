@@ -1,6 +1,6 @@
 {
   "name": "exceptional-objects",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "create objects that throw exceptions when accessing missing keys",
   "main": "index.js",
   "author": "chee <yay@chee.party>",
